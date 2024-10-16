@@ -130,7 +130,7 @@
   <span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>
   <span>
     <a href="https://stackoverflow.com/">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stackoverflow/stackoverflow-original.svg" width="25" alt="Stack Overflow" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stackoverflow/stackoverflow-original.svg" width="25" alt="Stack Overflow"/>
     </a>
   </span>
   <span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>
