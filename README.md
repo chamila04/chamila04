@@ -16,41 +16,73 @@
 
 <div align="left">
   <h2 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #E74C3C;">🛠️ Tech Stack & Tools</h2>
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" style="margin: 0 15px; display: inline-block;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="25" alt="C" />
-  </a>
-  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" style="margin: 0 15px; display: inline-block;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="25" alt="C#" />
-  </a>
-  <a href="https://www.java.com/" style="margin: 0 15px; display: inline-block;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="25" alt="Java" />
-  </a>
-  <a href="https://www.python.org/" style="margin: 0 15px; display: inline-block;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="25" alt="Python" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" style="margin: 0 15px; display: inline-block;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="25" alt="HTML" />
-  </a>
-  <a href="https://www.w3.org/Style/CSS/" style="margin: 0 15px; display: inline-block;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="25" alt="CSS" />
-  </a>
-  <a href="https://www.php.net/" style="margin: 0 15px; display: inline-block;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="25" alt="PHP" />
-  </a>
-  <a href="https://www.javascript.com/" style="margin: 0 15px; display: inline-block;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="25" alt="JavaScript" />
-  </a>
-  <a href="https://getbootstrap.com/" style="margin: 0 15px; display: inline-block;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="25" alt="Bootstrap" />
-  </a>
-  <a href="https://reactjs.org/" style="margin: 0 15px; display: inline-block;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="25" alt="React" />
-  </a>
-  <a href="https://spring.io/" style="margin: 0 15px; display: inline-block;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="25" alt="Spring Boot" />
-  </a>
+  <br />
+  <span>
+    <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="25" alt="C" />
+    </a>
+  </span>
+  <span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>
+  <span>
+    <a href="https://docs.microsoft.com/en-us/dotnet/csharp/">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="25" alt="C#" />
+    </a>
+  </span>
+  <span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>
+  <span>
+    <a href="https://www.java.com/">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="25" alt="Java" />
+    </a>
+  </span>
+  <span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>
+  <span>
+    <a href="https://www.python.org/">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="25" alt="Python" />
+    </a>
+  </span>
+  <span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>
+  <span>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="25" alt="HTML" />
+    </a>
+  </span>
+  <span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>
+  <span>
+    <a href="https://www.w3.org/Style/CSS/">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="25" alt="CSS" />
+    </a>
+  </span>
+  <span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>
+  <span>
+    <a href="https://www.php.net/">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="25" alt="PHP" />
+    </a>
+  </span>
+  <span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>
+  <span>
+    <a href="https://www.javascript.com/">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="25" alt="JavaScript" />
+    </a>
+  </span>
+  <span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>
+  <span>
+    <a href="https://getbootstrap.com/">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="25" alt="Bootstrap" />
+    </a>
+  </span>
+  <span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>
+  <span>
+    <a href="https://reactjs.org/">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="25" alt="React" />
+    </a>
+  </span>
+  <span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>
+  <span>
+    <a href="https://spring.io/">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="25" alt="Spring Boot" />
+    </a>
+  </span>
 </div>
-
 
 ---
 
@@ -61,6 +93,7 @@
 </div>
 
 ---
+
 <div align="center">
   <h2 style="font-family: 'Segoe UI', Tahoma, sans-serif; color: #9b59b6;">✨ Fun Fact</h2>
   <p style="font-family: 'Courier New', monospace; font-size: 18px; color: #e67e22;">
@@ -69,26 +102,41 @@
 </div>
 
 ---
+
 <div align="right">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=chamila04.chamila04" alt="Visitor Badge" />
   <br />
 </div>
+
 <div align="center">
-<br />
-<br />
-  <a href="https://github.com/" style="margin:100px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="25" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/" style="margin:100px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="25" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/" style="margin: 0 15px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="25" alt="Twitter" />
-  </a>
-  <a href="https://stackoverflow.com/" style="margin: 0 15px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stackoverflow/stackoverflow-original.svg" width="25" alt="Stack Overflow" />
-  </a>
-   <a href="https://your-portfolio-link.com/" style="margin: 0 15px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/website/website-original.svg" width="25" alt="Portfolio" />
-  </a>
+  <br />
+  <span>
+    <a href="https://github.com/">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="25" alt="GitHub" />
+    </a>
+  </span>
+  <span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>
+  <span>
+    <a href="https://www.linkedin.com/">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="25" alt="LinkedIn" />
+    </a>
+  </span>
+  <span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>
+  <span>
+    <a href="https://twitter.com/">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="25" alt="Twitter" />
+    </a>
+  </span>
+  <span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>
+  <span>
+    <a href="https://stackoverflow.com/">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stackoverflow/stackoverflow-original.svg" width="25" alt="Stack Overflow" />
+    </a>
+  </span>
+  <span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>
+  <span>
+    <a href="https://your-portfolio-link.com/">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/website/website-original.svg" width="25" alt="Portfolio"/>
+    </a>
+  </span>
 </div>
