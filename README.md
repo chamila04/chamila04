@@ -6,11 +6,8 @@
 
 ---
 
-## 🎨 Who Am I?
-- 🧑‍💻 Passionate about developing innovative software solutions.
-- 🌍 Exploring the world of AI, web development, and mobile apps.
-- 🛠️ Building projects with an emphasis on creativity and functionality.
-- 📖 Always learning something new to expand my skill set.
+## 🚀 About Me
+Hello! I’m Chamila, a passionate developer who loves to create innovative software solutions. I explore areas like AI, web development, and mobile apps. I enjoy turning ideas into reality through code.
 
 ---
 
@@ -86,10 +83,18 @@
 
 ---
 
+## 📊 GitHub Stats
 <div align="center">
-  <h2 style="font-family: Arial, sans-serif; color: #1E90FF;">📊 GitHub Stats</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=chamila04&theme=tokyonight&hide_border=true&show_icons=true" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chamila04&theme=tokyonight&hide_border=true" height="160" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=chamila04&theme=tokyonight&hide_border=true&show_icons=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chamila04&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chamila04&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=chamila04&theme=tokyonight&row=1&column=7" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -103,40 +108,25 @@
 
 ---
 
-<div align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=chamila04.chamila04" alt="Visitor Badge" />
-  <br />
-</div>
+## 📫 Connect with Me
+I’d love to hear from you! Feel free to reach out through these platforms:
 
 <div align="center">
-  <br />
-  <span>
-    <a href="https://github.com/" style="text-decoration: none;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="25" alt="GitHub" />
-    </a>
-  </span>
-  <span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>
-  <span>
-    <a href="https://www.linkedin.com/" style="text-decoration: none;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="25" alt="LinkedIn" />
-    </a>
-  </span>
-  <span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>
-  <span>
-    <a href="https://twitter.com/" style="text-decoration: none;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="25" alt="Twitter" />
-    </a>
-  </span>
-  <span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>
-  <span>
-    <a href="https://stackoverflow.com/" style="text-decoration: none;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stackoverflow/stackoverflow-original.svg" width="25" alt="Stack Overflow" />
-    </a>
-  </span>
-  <span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>
-  <span>
-    <a href="https://your-portfolio-link.com/" style="text-decoration: none;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/website/website-original.svg" width="25" alt="Portfolio" />
-    </a>
-  </span>
+  <a href="https://github.com/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40" alt="Twitter" />
+  </a>
+  <a href="https://stackoverflow.com/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stackoverflow/stackoverflow-original.svg" width="40" alt="Stack Overflow" />
+  </a>
+  <a href="https://your-portfolio-link.com/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/website/website-original.svg" width="40" alt="Portfolio" />
+  </a>
 </div>
+
+---
